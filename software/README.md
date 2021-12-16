@@ -833,6 +833,8 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |Fortinet| FortiAP| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiAuthenticator| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiCASB| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiClient| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
+|Fortinet| FortiClientEMS| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiConvertor| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiDeceptor| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiEDR Agent| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
@@ -842,7 +844,6 @@ The `Version` relates to the `Status` column. If `Status` is Vulnerable, Version
 |Fortinet| FortiMail| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiManager Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiManager| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
-|Fortinet| FortiNAC| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiNAC| |Vulnerable||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiOS (includes FortiGate & FortiWiFi)| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
 |Fortinet| FortiPhish Cloud| |Not Vuln||[source](https://www.fortiguard.com/psirt/FG-IR-21-245)|
